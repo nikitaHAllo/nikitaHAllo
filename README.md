@@ -36,14 +36,12 @@
 ## 📊 GitHub Статистика
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitaHAllo
-
-К&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaHAllo
-
-&layout=compact&theme=tokyonight&hide_border=true)
-
+  <a href="https://github.com/nikitaHAllo">
+    <img src="https://github-readme-stats.vercel.app/api?username=nikitaHAllo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
+  </a>
+  <a href="https://github.com/nikitaHAllo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaHAllo&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
+  </a>
 </div>
 
 ---
@@ -63,5 +61,6 @@
 > 💬 *"Код — это не просто синтаксис. Это отражение личности и вкуса разработчика."*
 
 ⭐️ **Загляни в мои репозитории и оцени проекты!**
+
 
 
