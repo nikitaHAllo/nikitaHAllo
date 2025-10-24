@@ -52,6 +52,17 @@
 
 ---
 
+## 🐍 Моя активность
+
+<div align="center">
+
+![GitHub Snake Light](https://github.com/nikitaHAllo/nikitaHAllo/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/nikitaHAllo/nikitaHAllo/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
+</div>
+
+---
+
 ## 💬 Связаться со мной
 
 <div align="center">
@@ -67,6 +78,7 @@
 > 💬 *"Код — это не просто синтаксис. Это отражение личности и вкуса разработчика."*
 
 ⭐️ **Загляни в мои репозитории и оцени проекты!**
+
 
 
 
