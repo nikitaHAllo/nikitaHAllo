@@ -37,10 +37,16 @@
 
 <div align="center">
   <a href="https://github.com/nikitaHAllo">
-    <img src="https://github-readme-stats.vercel.app/api?username=nikitaHAllo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nikitaHAllo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/nikitaHAllo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaHAllo&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaHAllo&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=nikitaHAllo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </a>
 </div>
 
