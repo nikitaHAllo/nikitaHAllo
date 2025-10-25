@@ -1,4 +1,10 @@
-# 👋 Привет, я Никита!
+<!-- Cyberpunk 2077 README by NikitaHALLO -->
+<p align="center">
+  <img src="./assets/logo.svg" width="180" alt="NH Logo"/>
+</p>
+<p align="center">
+  <img src="./assets/cyberpunk-banner.svg" alt="Cyberpunk Banner" width="100%"/>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+разработчик;Люблю+React,+TypeScript+и+чистый+код;Создаю+удобные+и+живые+интерфейсы)](https://git.io/typing-svg)
 
